@@ -1,0 +1,5 @@
+name = "fusionPoster"
+type = "javascript"
+
+[build]
+command = "npm run build"
